@@ -12,19 +12,19 @@ exclusive to PMTM) (e) designing primers and classifying markers into PMTM or PG
 mapping all designed primers against KEGG reference maps.
 
 **Shell Files
-1- Shell_step1.sh
-2- misa.sh
-3- Extract-seq.sh
-4- Extract-seq_EST.sh
-5- PGTM_primers.sh
-6- PPTM_primers.sh
-7- map_primers_KEGG_Maps.sh
+1. Shell_step1.sh
+2. misa.sh
+3. Extract-seq.sh
+4. Extract-seq_EST.sh
+5. PGTM_primers.sh
+6. PPTM_primers.sh
+7. map_primers_KEGG_Maps.sh
 
 **Perl scripts (Folder Script/)
-1- Etract-Feature.pl
-2- multigb_to_multifasta.pl
-3- extractseq.pl
-4- misa.pl
-5- p3_in.pl
-6- p3_in2.pl
-7- p3_out.pl
+1. Etract-Feature.pl
+2. multigb_to_multifasta.pl
+3. extractseq.pl
+4. misa.pl
+5. p3_in.pl
+6. p3_in2.pl
+7. p3_out.pl
