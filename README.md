@@ -28,3 +28,11 @@ mapping all designed primers against KEGG reference maps.
 5. p3_in.pl
 6. p3_in2.pl
 7. p3_out.pl
+
+For questions and Issues please contact: morad.mokhtar@ageri.sci.eg; morad.mokhtar@um6p.ma
+
+Citations
+
+If you find this scripts useful, please cite:
+
+Morad M. Mokhtar, Achraf El Allali, Mohamed-Elamir F. Hegazy & Mohamed A. M. Atia. PlantPathMarks (PPMdb): an interactive hub for pathways-based markers in plant genomes. Scientific Reports  11, 21300 (2021). https://doi.org/10.1038/s41598-021-00504-2
